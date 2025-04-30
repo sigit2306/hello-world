@@ -1,0 +1,6 @@
+{
+	"name": "sigit2306/hello-world",
+	"require": {
+		"monolog/monolog": "2.*"
+	}
+}
